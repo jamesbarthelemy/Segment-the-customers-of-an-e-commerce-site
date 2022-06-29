@@ -50,7 +50,7 @@ During this this project I will use the KMeans Clustering technique to provide a
 
 # Modelization
 
-<img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/p4_model.png" width="600">
+<img src="https://raw.githubusercontent.com/jamesbarthelemy/images/main/p4_model.png" width="1200">
 
 [Back to table of contents](#table-of-contents)
 
